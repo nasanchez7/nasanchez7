@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadir</h1>
 <h3 align="center">Frontend Developer from Argentina 🧉</h3>
 
-- 💬 Ask me about **HTML, CSS, SCSS, Photoshop, Bootstrap.**
+- 💬 Ask me about **HTML, CSS, SCSS, Photoshop, Figma, Bootstrap.**
 
 - 📫 How to reach me **nadirblanco02@gmail.com**
 
