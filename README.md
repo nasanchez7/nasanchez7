@@ -5,10 +5,7 @@
 
 ### <div align="center">I'm Nadir, a frontend developer from Argentina 👨‍💻 🧉</div>  
   
-
-- 🔭 I am currently working on my personal project (https://nasanchez7.github.io/ecommerce/)  
-  
-
+ 
 - ❓ Ask me about anything frontend related  
   
 
