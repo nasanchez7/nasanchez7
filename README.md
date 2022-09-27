@@ -7,7 +7,7 @@ Soy un desarrollador React apasionado por el diseño, maquetado y desarrollo de 
 ## 💫 Liitle Bit More About Me
 <p>💬 Ask me about Fronted Developer</p>
 <p>📫 How to reach me? nadirblanco02@gmail.com</p>
-<p>I regularly write articles on <a href="https://nadirsanchez.netlify.app/">https://nadirsanchez.netlify.app/</a></p>
+<p>Portfolio <a href="https://nadirsanchez.netlify.app/">https://nadirsanchez.netlify.app/</a></p>
 
 ## 💻 Skills
 <p>
@@ -25,14 +25,6 @@ Soy un desarrollador React apasionado por el diseño, maquetado y desarrollo de 
 <a href="https://linkedin.com/in/nadirsanchez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=nasanchez7">
-</p>
 
 ## 📊 Github Status
 
